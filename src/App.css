@@ -1,5 +1,6 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
+  color: white;
 }
 
 .App-logo {
@@ -26,6 +27,11 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.hello_name {
+  text-align: center;
+  padding: 12px 0 0 0;
 }
 
 @keyframes App-logo-spin {
